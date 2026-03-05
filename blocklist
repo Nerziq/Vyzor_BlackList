@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-03-06",
+  "blocked_tracks": [
+    {
+      "title": "Плохая песня",
+      "artist": "Плохой исполнитель",
+      "reason": "Жалоба правообладателя",
+      "date_added": "2026-03-01"
+    },
+    {
+      "title": "Еще песня",
+      "artist": "Исполнитель",
+      "reason": "DMCA"
+    }
+  ],
+  "blocked_artists": [
+    {
+      "name": "Запрещенный исполнитель",
+      "reason": "Жалоба"
+    }
+  ],
+  "blocked_sources": [
+    "https://vk.com/bad_page",
+    "https://youtube.com/watch?v=bad_id"
+  ]
+}
