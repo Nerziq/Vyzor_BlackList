@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.0.0",
   "last_updated": "2026-03-06T15:30:00Z",
   "update_url": "https://raw.githubusercontent.com/твой-аккаунт/blocklist/main/blocklist.json",
   
@@ -28,14 +28,17 @@
       "reason": "По требованию правообладателя",
       "date_added": "2026-02-15"
     }
-  ],
-
-  "blocked_albums": [
     {
-      "id": "album_001",
-      "name": "Альбом",
-      "artist": "Исполнитель",
-      "reason": "Жалоба"
+      "id": "artist_002",
+      "name": "SLAVA MARLOW",
+      "reason": "По требованию правообладателя",
+      "date_added": "2026-02-15"
+    }
+    {
+      "id": "artist_003",
+      "name": "Aarne",
+      "reason": "По требованию правообладателя",
+      "date_added": "2026-02-15"
     }
   ],
 
