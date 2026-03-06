@@ -23,9 +23,9 @@
 
   "blocked_artists": [
   {
-    "id": "artist_001"
-    "name": "MORGENSHTERN"
-    "reason": "По требованию правообладателя"
+    "id": "artist_001",
+    "name": "MORGENSHTERN",
+    "reason": "По требованию правообладателя",
     "date_added": "2026-03-06"
   }
 ],
