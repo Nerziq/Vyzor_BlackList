@@ -27,35 +27,15 @@
       "name": "MORGENSHTERN",
       "reason": "По требованию правообладателя",
       "date_added": "2026-02-15"
-    }, // <- ЗАПЯТАЯ ПОСЛЕ ПЕРВОГО
-    {
-      "id": "artist_002",
-      "name": "SLAVA MARLOW",
-      "reason": "По требованию правообладателя",
-      "date_added": "2026-02-15"
-    }, // <- ЗАПЯТАЯ ПОСЛЕ ВТОРОГО
-    {
-      "id": "artist_003",
-      "name": "Aarne",
-      "reason": "По требованию правообладателя",
-      "date_added": "2026-02-15"
-    } // <- ПОСЛЕ ПОСЛЕДНЕГО ЗАПЯТАЯ НЕ НУЖНА
-  ],
-
-  "blocked_sources": [
-    {
-      "url": "https://vk.com/wall-123456",
-      "reason": "Пиратский источник"
-    },
-    {
-      "url": "https://youtube.com/watch?v=BAD_ID",
-      "reason": "DMCA"
     }
   ],
 
+  "blocked_sources": [
+  ],
+
   "stats": {
-    "total_blocked": 5,
+    "total_blocked": 0,
     "last_updated_by": "admin",
-    "update_count": 12
+    "update_count": 6
   }
 }
